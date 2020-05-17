@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 <!--    <nav-menu><home></home></nav-menu>-->
-    <AuthorizationResult></AuthorizationResult>
+<!--    <AuthorizationResult></AuthorizationResult>-->
   </div>
 </template>
 
@@ -13,10 +13,10 @@
 export default {
   name: 'App',
   components:{
-    AuthorizationResult,
-    AuthorizationSearch,
-    NavMenu,
-    Home
+    // AuthorizationResult,
+    // AuthorizationSearch,
+    // NavMenu,
+    // Home
   }
 }
 </script>

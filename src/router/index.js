@@ -7,9 +7,9 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/navmenu',
-      name: 'NavMenu',
-      component: Navmenu
+      // path: '/navmenu',
+      // name: 'NavMenu',
+      // component: Navmenu
     }
   ]
 })
